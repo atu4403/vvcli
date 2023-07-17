@@ -11,5 +11,5 @@ rye sync
 使用するには仮想環境をアクティベートして以下のコマンドを実行します。
 
 ```bash
-python main.py 1 sample/test.txt sample/audio_02.wav
+vv --help
 ```
